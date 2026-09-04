@@ -1,4 +1,4 @@
-# 🌐 Grafo — Rede Social
+# 🌐 Grafo - Rede Social
 O projeto simula uma rede social, na qual cada usuário é representado como uma ``vértice`` do ``grafo`` e cada amizade entre dois usuários é representada como uma ``aresta``.
 
 Além do gerenciamento dos usuários e amizades, a aplicação utiliza algoritmos da **biblioteca NetworkX** para realizar consultas e análises sobre a rede.
